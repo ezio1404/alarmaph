@@ -1,0 +1,29 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">#7e1f1f</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlNormal">#c5c5c5</item>
+        <item name="colorControlActivated">#cd5c5c</item>
+        <item name="colorControlHighlight">#c5c5c5</item>
+
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="AppTheme.ActionBar.Transparent" parent="Theme.AppCompat.Light.NoActionBar" />
+
+
+    <style name="Listcolor" parent="@android:style/Widget.ListView">
+        <item name="android:textColor">#FF0000</item>
+    </style>
+
+    <style name="asds" />
+
+
+</resources>

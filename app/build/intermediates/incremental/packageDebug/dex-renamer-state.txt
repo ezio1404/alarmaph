@@ -1,0 +1,7 @@
+#Fri Mar 16 14:49:28 CST 2018
+base.0=C\:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_29179c8a02bda7dee3f345f0a9a0b166d77feefd
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d1afd8743254d19d9dd550a64d81d7ac7f2ee5cc\\classes.dex
+base.1=C\:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_d1afd8743254d19d9dd550a64d81d7ac7f2ee5cc
+file.0=C\:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_29179c8a02bda7dee3f345f0a9a0b166d77feefd\\classes.dex

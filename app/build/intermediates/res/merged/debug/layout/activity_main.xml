@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#7e1f1f"
+    tools:context="alarma.example.com.alarmaph.MainActivity">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:backgroundTint="@android:color/white"
+        android:gravity="center"
+        android:orientation="vertical"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="-24dp"
+        android:focusable="false"
+        android:focusableInTouchMode="true">
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="235dp"
+            android:layout_height="66dp"
+            android:minHeight="180dp"
+            app:srcCompat="@drawable/slogo1"/>
+
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_name1"
+            android:layout_width="match_parent"
+            android:textColorHint="#ffffff"
+            android:layout_height="wrap_content"
+            app:passwordToggleEnabled="true">
+
+        <EditText
+            android:id="@+id/editText3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/edittext_bottom_line"
+            android:ems="10"
+            android:inputType="text"
+            android:fontFamily="sans-serif"
+            android:paddingTop="10dp"
+            android:hint="Username"
+            android:paddingLeft="5dp"
+            android:paddingBottom="10dp"
+            android:textColor="@android:color/white"
+            android:textColorHint="#ffffff"
+            android:textSize="15sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <android.support.design.widget.TextInputLayout
+            android:id="@+id/input_layout_name2"
+            android:layout_width="match_parent"
+            android:textColorHint="#ffffff"
+            android:layout_height="wrap_content"
+            app:passwordToggleEnabled="true"
+            app:passwordToggleTint="#ffffff">
+
+        <EditText
+            android:id="@+id/editText4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/edittext_bottom_line"
+            android:ems="10"
+            android:inputType="textPassword"
+            android:fontFamily="sans-serif"
+            android:paddingTop="10dp"
+            android:hint="Password"
+            android:paddingLeft="5dp"
+            android:paddingBottom="10dp"
+            android:textColor="@android:color/white"
+            android:textColorHint="#ffffff"
+            android:textSize="15sp" />
+        </android.support.design.widget.TextInputLayout>
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#ffffff"
+            android:padding="15dp"
+            android:text="SIGN IN" />
+
+
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#0000"
+            android:padding="0dp"
+            android:text="Create Account"
+            android:textAllCaps="false"
+            android:textColor="#ffffff"
+            android:textStyle="italic" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:orientation="horizontal"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="8dp"></LinearLayout>
+</android.support.constraint.ConstraintLayout>

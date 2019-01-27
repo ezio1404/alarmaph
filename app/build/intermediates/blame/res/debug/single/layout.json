@@ -1,0 +1,506 @@
+[
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_events.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_events.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_notification.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_addlocation.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_addlocation.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\webview.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_police_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_call_police_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\post_citzen.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\post_citzen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_citizenactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_citizenactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_emergency.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_emergency.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_guardianactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\content_guardianactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_homeactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\nav_header_homeactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_call_fire_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_call_fire_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_helpactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_helpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_browseactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\fragment_browseactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_fire.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_fire.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_others_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_call_others_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_manualactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\content_manualactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_manual.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_manual.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_eventsactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_eventsactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manualactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_manualactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_call_police_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_call_police_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_citizen.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_citizen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_helpactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\content_helpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_bfpactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_bfpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_browse_others.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_browse_others.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_browse.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_emergencyactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_emergencyactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_call_alarma_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_call_alarma_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_add_guardian.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_add_guardian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_citaddpost.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_citaddpost.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_setting.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\content_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_citizen_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_citizen_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_bfpactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_bfpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_addperson.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_addperson.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_posts.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_posts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_alarma_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_call_alarma_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_forecastactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_forecastactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_showkey.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_showkey.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_forecast.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\content_forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_call_alarma.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\content_call_alarma.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_police.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_police.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_detailed_report.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\view_detailed_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_emergencyactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\content_emergencyactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zalarma_calls.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zalarma_calls.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_settingactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_settingactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_guardianactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_guardianactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_call_others_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_call_others_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_browseactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_browseactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_rate.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_rate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_notificationsactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_notificationsactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_homeactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\content_homeactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_settingactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_settingactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_value_list.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\image_value_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_manualactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_manualactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_rfieldedit.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_rfieldedit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_guardian.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_guardian.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_edit.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_edit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_fire_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_call_fire_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_browse.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_browse.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_terms.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_terms.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_guardianactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_guardianactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_call_medical_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_call_medical_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_homeactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_homeactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\post_spec.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\post_spec.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_call_medical_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_call_medical_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_emergencyactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_emergencyactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_helpactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_helpactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_feedback.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_feedback.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_notificationsactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_notificationsactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_homeactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\app_bar_homeactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_medical.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_medical.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_forecast.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\list_forecast.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_forecastactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_forecastactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zdialog_medical_numbers.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\zdialog_medical_numbers.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_events_activity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\layout\\activity_events_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    }
+]

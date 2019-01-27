@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="alarma.example.com.alarmaph.settingactivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="20dp"
+        >
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/imguseredit"
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/default_image"
+            app:border_color="#7e1f1f"
+            app:border_width="2dp" />
+
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="7dp">
+
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                >
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="2dp"
+                    android:text="Name:"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/n"
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="2dp"
+                    android:text="Carlo Saberon"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="2dp"
+                    android:text="Email:"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/p"
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="2dp"
+                    android:text="saberon.carlo43@gmail.com"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="2dp"
+                    android:text="Points:"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/e"
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="2dp"
+                    android:text="100"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+            </TableRow>
+
+
+        </TableLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        android:orientation="horizontal"
+        android:padding="15dp">
+
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="7dp">
+
+            <!--
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:gravity="left|fill_vertical"
+                                android:padding="5dp"
+                                android:text="Birthday:"
+                                android:textColor="#7e1f1f"
+                                android:textSize="12dp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/bday"
+                                android:layout_width="match_parent"
+                                android:gravity="left|fill_vertical"
+                                android:padding="5dp"
+                                android:text="January 11, 1997"
+                                android:textColor="#7e1f1f"
+                                android:textSize="12dp" />
+
+                            <TextView
+                                android:id="@+id/editbday"
+                                android:layout_width="wrap_content"
+                                android:layout_marginLeft="40dp"
+                                android:padding="5dp"
+                                android:text="Edit"
+                                android:textColor="#7e1f1f"
+                                android:textSize="12dp" />
+
+                        </TableRow> -->
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="Address:"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/addr"
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="None"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/editaddr"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:padding="5dp"
+                    android:text="Edit"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="Contact #:"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/cnumber"
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="None"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/editcon"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:padding="5dp"
+                    android:text="Edit"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="Home #:"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/hnum"
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="None"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/edithome"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:padding="5dp"
+                    android:text="Edit"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="Related Fields:"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <TextView
+                    android:id="@+id/rfield"
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="None"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+                <TextView
+                    android:id="@+id/editrfield"
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="40dp"
+                    android:padding="5dp"
+                    android:text="Edit"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp" />
+
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:text="Activate Help: "
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+                <Switch
+                    android:id="@+id/rfswitch"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="left" />
+
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent"
+                android:paddingBottom="3dp">
+
+
+                <Button
+                    android:id="@+id/addGuardian"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Guardian"
+                    android:background="#7e1f1f"
+                    android:textColor="#ffffff"
+                    />
+
+                <TextView
+                    android:id="@+id/guardianName"
+                    android:layout_width="match_parent"
+                    android:gravity="left|fill_vertical"
+                    android:padding="5dp"
+                    android:layout_marginLeft="20dp"
+                    android:text="Guardian Name"
+                    android:textColor="#7e1f1f"
+                    android:textSize="18dp"/>
+
+
+            </TableRow>
+            <TableRow
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+
+
+                <Button
+                    android:id="@+id/showKey"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Show Key"
+                    android:background="#7e1f1f"
+                    android:textColor="#ffffff"
+                    />
+
+
+
+
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="0dp"
+        android:orientation="vertical">
+
+
+        <Button
+            android:id="@+id/buttonsf"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#7e1f1f"
+            android:padding="20dp"
+            android:text="SUBMIT FEEDBACKS"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/buttontc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#7e1f1f"
+            android:padding="20dp"
+            android:text="TERM AND CONDITIONS"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/buttonpp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:background="#7e1f1f"
+            android:padding="20dp"
+            android:text="PRIVACY POLICY"
+            android:textColor="#ffffff" />
+
+    </LinearLayout>
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/content_setting" />
+
+
+</android.support.design.widget.CoordinatorLayout>

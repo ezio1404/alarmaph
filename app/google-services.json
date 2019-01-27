@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "482064157957",
+    "firebase_url": "https://alarmaph-5ac28.firebaseio.com",
+    "project_id": "alarmaph-5ac28",
+    "storage_bucket": "alarmaph-5ac28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:482064157957:android:49c686891500060a",
+        "android_client_info": {
+          "package_name": "alarma.example.com.alarmaph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "482064157957-tel6vvcffgpndcmbdkhe3ukunhf0s8ei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "alarma.example.com.alarmaph",
+            "certificate_hash": "364ed39c2fb0275e8568ee70d8124d2cc0fb7b89"
+          }
+        },
+        {
+          "client_id": "482064157957-0fq73og7gtjlngvvp349e9mehijqo26v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAceI0vR4_g9bLM0c019TVcdXmzDGR-WR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "482064157957-0fq73og7gtjlngvvp349e9mehijqo26v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

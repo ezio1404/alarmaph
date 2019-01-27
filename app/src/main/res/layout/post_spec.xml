@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/postSpecTable"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp"
+    android:baselineAligned="false">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ImageView
+            android:id="@+id/imgPost"
+            android:layout_width="54dp"
+            android:layout_height="51dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:background="#00000000"
+            android:src="@drawable/carlo" />
+
+
+        <TextView
+            android:id="@+id/postSpecName"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:gravity="left|fill_vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:paddingTop="10dp"
+            android:text="agencyName"
+            android:textStyle="bold" />
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/postSpecDesc"
+            android:layout_span="2"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:gravity="left|fill_vertical"
+            android:paddingBottom="10dp"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:text="Post Description"
+            android:textColor="#7e1f1f" />
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="10dp">
+
+        <ImageButton
+            android:id="@+id/likeButton"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00000000"
+            android:scaleType="fitCenter"
+            android:src="@drawable/like"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/likeText"
+            android:layout_width="match_parent"
+            android:layout_gravity="bottom"
+            android:paddingLeft="5dp"
+            android:paddingTop="5dp"
+            android:text="20"
+            android:textColor="#7e1f1f"
+            android:textStyle="bold" />
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <EditText
+            android:id="@+id/editText10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="#f2f2f2"
+            android:layout_span="2"
+            android:ems="10"
+            android:padding="15dp"
+            android:layout_marginBottom="5dp"
+            android:inputType="textPersonName"
+            android:hint="Write Comment..." />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <Button
+            android:id="@+id/button13"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_span="2"
+            android:background="#7e1f1f"
+            android:gravity="center"
+            android:text="Add Comment"
+            android:textColor="#ffffff" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/commentViewList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_span="2"
+            android:divider="#ffffff"
+            android:dividerHeight="5sp" />
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ListView
+            android:id="@+id/imageViewList"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_span="2" />
+    </TableRow>
+
+
+</TableLayout>

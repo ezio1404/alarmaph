@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent">
+
+
+    <TextView
+        android:id="@+id/textViewp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:gravity="center"
+        android:inputType="text|textMultiLine|textCapSentences"
+        android:padding="20dp"
+        android:text="ADD LOCATION" />
+
+
+    <ImageView
+        android:id="@+id/addimgs"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/textViewp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center"
+        android:layout_weight="0.09"
+        android:scaleType="centerCrop"
+        android:src="@drawable/loc_user" />
+
+
+    <EditText
+        android:id="@+id/editText7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/addimgs"
+        android:ems="10"
+        android:background="@drawable/bottom_red"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:hint="Formatted Address" />
+
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/editText7"
+        android:ems="10"
+        android:background="@drawable/bottom_red"
+        android:padding="15dp"
+        android:inputType="textPersonName"
+        android:hint="Remarks" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+
+        android:id="@+id/linearLayout3"
+        android:layout_below="@+id/editText3"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+        <Button
+            android:id="@+id/dialogButtonOKl"
+            android:layout_width="100px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#4d9c58"
+            android:text="ADD"
+            android:textColor="#ffffff" />
+
+        <Button
+            android:id="@+id/dialogButtonCancell"
+            android:layout_width="100px"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:background="#b0aeae"
+            android:text="Cancel"
+            android:textColor="#ffffff" />
+    </LinearLayout>
+
+
+</RelativeLayout>

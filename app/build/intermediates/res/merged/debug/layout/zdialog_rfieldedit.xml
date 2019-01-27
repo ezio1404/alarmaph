@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RadioGroup
+        android:id="@+id/rfselect"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="10dp">
+        <RadioButton
+            android:id="@+id/rnone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="None" />
+        <RadioButton
+            android:id="@+id/rf1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Trained First Aider" />
+
+        <RadioButton
+            android:id="@+id/rf2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="EMT - Basic"/>
+
+        <RadioButton
+            android:id="@+id/rf3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="EMT- Intermediate" />
+
+        <RadioButton
+            android:id="@+id/rf4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="EMT - Paramedics" />
+
+        <RadioButton
+            android:id="@+id/rf5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="MedicalDegree Holder" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/rfsub"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#4d9c58"
+        android:text="Confirm"
+        android:textColor="#ffffff" />
+</LinearLayout>

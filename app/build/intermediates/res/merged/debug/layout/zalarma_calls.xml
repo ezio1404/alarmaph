@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dp"
+        android:gravity="top"
+        android:orientation="vertical"
+        >
+        <!-- <ListView
+              android:id="@+id/z_calls_alarma"
+              android:layout_height="wrap_content"
+              android:layout_width="match_parent"
+              android:dividerHeight="8sp"
+              android:divider="@android:color/transparent"
+              android:paddingLeft="0dp">
+          </ListView>-->
+
+        <TextView
+            android:id="@+id/c_alarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="TextView" />
+
+        <TextView
+            android:id="@+id/c_alarm_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="15dp"
+            android:text="TextView" />
+    </LinearLayout>
+
+</android.support.design.widget.CoordinatorLayout>

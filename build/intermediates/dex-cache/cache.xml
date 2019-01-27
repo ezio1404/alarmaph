@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\093f7cbe06649b71e9ca72b1bf38b003c36c38a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_591692b31d42f652659479d04b5d703c3b6fbefe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\Alarmaph\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_29179c8a02bda7dee3f345f0a9a0b166d77feefd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\0bdf136503b72d1542699ddf8053167d7a0f2f45\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_baee4f249a274159834ada59a4ca841a6b294808\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\be4b42560e1d85a2b36a941165383ba44f6924cb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0b5f18e5da9fe26afa1ecd3736f2a154a2d6834c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\ad2dfb4585ddae3094c31536522eae973e048f2b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7ead705e5cb88fb98caf318a399955a4e9b1e216\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\a6565b581bab547e1942c40ed7dbc76ef36f4320\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c77f73ce2eb71773d1bc4272d79b4775389b09eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\1c08080896ec2390dcc70cf4c3dbec00de14223b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_174678c15d443854c1f9ec7f49140d58e058664b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\ff3e85c36ce71d0e9ec928f0c324904e1bc529c2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d3380a6ed8a8f73c6514ee2a2dde1ba32a3a36a3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e2fc9716c2bcc113cd64a333124641e698c72564\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\d78b12a2e700e5fb4e45986df0e549e74010d53c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d3f01f58307583b8debd225ba6a2d62a461260a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\Alarmaph\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3d133779607177ac1fd1299f92c20c661b703e00">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_d1afd8743254d19d9dd550a64d81d7ac7f2ee5cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\f73970a7a3fadbcd73db320a8ca702b9a6c9e9ef\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7b5e75ec99eba423d288e7c4fb17150a653957b3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\c63e71e744f9a270239078cce25f9407267018f6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f0f484b1a18c1676984dfea4e572ceffda2f3b78">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9edf77f4f5fd37db408a3ee10fd5400a130ddfe8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\3bde697048c2efd38c615e362ce93f1819df2144\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4a04acea249d1f64cb6ae961a6b21a4f95dadac9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\957d6a12bd70f5cf4c8c8e84ebf71b80384fae96\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ac6948cce36f694f3eb3d73a135e298dc4b3527a">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_af368fb790199b52c58988be4e4329621a7e921f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\97429970eae5b8f831f0f72d92c0ad4991d3ef6a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c44026185adf61f12630db36ac6781481f559e7c">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b04663a758ec3c82f8ed0d731e2ce3b2c48d333b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\e8acc02dbb261b69256e19b5caf1bac75c1e3207\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9add4246f84dabeadc09ce759db9ecec139e806f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.0.2\b9cd8fc6bd15cb915735d34535db30ece0c44603\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_52bfeee5743edf704b66368f229ca54af482e2cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\5c9905b9db6d1c3d86420c34f238a0f1191073ea\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_dbb515fe31f940a6023d7f5de9ad135a5828d93b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\8634701881b7e15ba7205c361d711c567272afc0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1334d094781cc25d908a05dc57cdfb35bcad491c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\4cad79318ef28874af02bb30a66313f74de58bb2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1b982cc8b5ab6f788690238dbe3ac3bb19f88b1a">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_04442075069dcd92fe5f7cccbfbb425789af8324\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\7e6dd6ec879c3896955f50554f588928b29bae6f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_41459e63ceeae94eeb08aae72228b2d387e9a270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\570c15603963dfc3b971e43c43544ed566a44a9b\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ae6daa7975dee9b1badc2eb578271c1f090b7a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\14c5ce10898a4511707c10c4d99f022dd1b9a5ee\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_94bc5789c514baeceb4649dcbba779a759c65cff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\08e12785e200d5c1a22903e61329f5d863dd6201\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_12f374b430861673ac6f768c5a01de429b52798a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\f792e79f986389a3a962910e47a8b3f35933dc56\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ed04a0ae7198b0d5d0e965d6afdb0fe784dcfbee">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b573c9fce595ed0ff8a8a1b042dce5d61699ae33\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\daf798e8198cc869b6c06abead850ff002bca38c\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_97ffcba9514014c9508b50489dbfed0a87db4ecd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_6882d1f612ab48e98e1d1b24b2f6848eefbaef71\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\fcaabbb4b818f6d67f715e8caf0ed9edfb393754\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6241648f48ffd09f77ea947af4857548c5fbb2a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\8c5833c0ca0ad28f3a7f8cb4d10c4089f9d17e2f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e4467121b1d57bc321a8dab1736def21642d2491\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\044ec8f525b20b4144101ad714da1ff9aa748615\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0501a63a02f510819a36d69e8763cec3b526df5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Carlo\.android\build-cache\ec7bbf4fa03b0b7abe3edcfb5ff411f22af4a6ed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\Carlo\Alarmaph\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e47ba317d0040475ca84a826b1c1ed89935fcc01\classes.dex" />
+    </item>
+
+</items>

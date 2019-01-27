@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="alarma.example.com.alarmaph.homeactivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="0dp"
+        android:gravity="top"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_marginTop="-10dp"
+            app:srcCompat="@drawable/cebu" />
+
+        <TextView
+            android:id="@+id/tbrowse"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-10dp"
+            android:background="@color/gray"
+            android:gravity="right"
+            android:padding="10dp"
+            android:text="BROWSE"
+            android:textColor="#ffffff"
+            android:textStyle="bold" />
+
+        <ImageView
+            android:padding="3dp"
+            android:id="@+id/username_icon"
+            android:src="@drawable/call"
+            android:layout_width="18dp"
+            android:layout_marginTop="-27dp"
+            android:layout_marginLeft="282dp"
+            android:layout_height="18dp" />
+
+        <LinearLayout
+            android:id="@+id/brosemenu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:visibility="invisible"
+            android:weightSum="1">
+
+
+            <TextView
+                android:id="@+id/tb"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.12"
+                android:background="@color/gray"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="BRGY OUTPOST"
+                android:textColor="#ffffff"
+                android:textSize="10dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.30"
+                android:background="@color/gray"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="POLICE"
+                android:textColor="#ffffff"
+                android:textSize="10dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/tf"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.28"
+                android:background="@color/gray"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="FIRE"
+                android:textColor="#ffffff"
+                android:textSize="10dp"
+                android:textStyle="bold" />
+
+
+            <TextView
+                android:id="@+id/ta"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.20"
+                android:background="@color/gray"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="AMBU"
+                android:textColor="#ffffff"
+                android:textSize="10dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tngo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.22"
+                android:background="@color/gray"
+                android:gravity="center"
+                android:padding="10dp"
+                android:text="NGO"
+                android:textColor="#ffffff"
+                android:textSize="10dp"
+                android:textStyle="bold" />
+
+
+        </LinearLayout>
+
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/buttonforecast"
+        android:layout_width="100dp"
+        android:layout_height="40dp"
+        android:layout_gravity="bottom|right"
+        android:layout_marginTop="20dp"
+        android:paddingTop="0dp"
+        android:background="#ffffff"
+        android:text="Forecast"
+        android:textAllCaps="false"
+        app:layout_anchor="@+id/include"
+        app:layout_anchorGravity="top|right" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="79dp"
+        android:layout_height="64dp"
+        android:layout_marginTop="8dp"
+        app:layout_anchor="@+id/include"
+        app:srcCompat="@drawable/weather" />
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/content_homeactivity"
+        android:layout_width="wrap_content"
+        android:layout_height="557dp" />
+
+
+</android.support.design.widget.CoordinatorLayout>

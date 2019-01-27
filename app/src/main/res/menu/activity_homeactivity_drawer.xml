@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Alarma"
+          android:id="@+id/nav_follows">
+        <menu>
+            <!--
+            <item
+            android:id="@+id/nav_alarma"
+            android:icon="@drawable/alarma"
+            android:title="Alarma" />
+            <item
+                android:id="@+id/nav_bfp"
+                android:icon="@drawable/ic_panorama_fish_eye_black_48dp"
+                android:title="Bureau of Fire Protection" />
+            <item
+                android:id="@+id/nav_samaritan"
+                android:icon="@drawable/ic_panorama_fish_eye_black_48dp"
+                android:title="Samaritan" />
+            <item
+                android:id="@+id/nav_pnp"
+                android:icon="@drawable/ic_panorama_fish_eye_black_48dp"
+                android:title="Philippine National Police" />
+            <item
+                android:id="@+id/nav_eruf"
+                android:icon="@drawable/ic_panorama_fish_eye_black_48dp"
+                android:title="Emergency Rescue Unit Foundation" /> -->
+        </menu>
+    </item>
+
+    <item android:title="Calls"
+           android:id="@+id/calls_alarma">
+        <menu>
+
+            <item
+                android:icon="@drawable/ic_call_red_48dp"
+                android:id="@+id/nav_call_alarma_side"
+                android:title="Alarma" />
+
+            <item
+                android:icon="@drawable/ic_call_red_48dp"
+                android:id="@+id/nav_call_medical_side"
+                android:title="Medical" />
+            <item
+                android:id="@+id/nav_call_fire_side"
+                android:icon="@drawable/ic_call_red_48dp"
+                android:title="Fire" />
+            <item
+                android:id="@+id/nav_call_police_side"
+                android:icon="@drawable/ic_call_red_48dp"
+                android:title="Police" />
+
+        </menu>
+    </item>
+    <item
+        android:id="@+id/nav_emergency"
+        android:icon="@drawable/emergency"
+        android:title="Emergency" />
+  <!--  <item
+        android:id="@+id/nav_notifications"
+        android:icon="@drawable/alarma"
+        android:title="Notifications"/>-->
+    <item
+        android:id="@+id/nav_guardian"
+        android:icon="@drawable/guardian"
+        android:title="Guardian" />
+    <item
+        android:id="@+id/nav_manual"
+        android:icon="@drawable/manual"
+        android:title="Manual" />
+    <item
+        android:id="@+id/nav_help"
+        android:icon="@drawable/help"
+        android:title="Help" />
+
+    <item
+        android:id="@+id/nav_setting"
+        android:icon="@drawable/setting_user"
+        android:title="Setting" />
+
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_settings_24dp"
+        android:title="Logout" />
+</menu>

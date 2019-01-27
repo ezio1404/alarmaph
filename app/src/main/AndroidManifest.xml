@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="alarma.example.com.alarmaph">
+
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:name=".App"
+        android:allowBackup="true"
+        android:icon="@mipmap/slogo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+        <uses-permission android:name="android.permission.CALL_PHONE" />
+        <uses-permission android:name="android.permission.CAMERA" />
+
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".homeactivity"
+            android:label="@string/title_activity_homeactivity"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".registration" />
+        <activity android:name=".helpactivity" />
+        <activity android:name=".manualactivity" />
+        <activity android:name=".forecastactivity" />
+        <activity android:name=".settingactivity" />
+        <activity android:name=".emergencyactivity" />
+        <activity android:name=".guardianactivity" />
+        <activity
+            android:name=".post_spec"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".call_alarma_activity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".browseactivity"
+            android:label="@string/title_activity_browseactivity"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".bfpactivity" />
+
+        <service
+            android:name=".MyService"
+            android:enabled="true"
+            android:exported="true" />
+
+        <!-- <activity android:name=".call_alarma_activity"></activity> -->
+        <activity
+            android:name=".call_medical_activity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".call_fire_activity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity
+            android:name=".call_police_activity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".pdf_webview" />
+        <activity android:name=".citizen_activity" />
+        <activity
+            android:name=".call_others_activity"
+            android:windowSoftInputMode="stateAlwaysHidden" />
+        <activity android:name=".events_activity" />
+        <activity android:name=".notificationsactivity"></activity>
+    </application>
+
+</manifest>

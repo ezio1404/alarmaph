@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/img_agency"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+
+            android:src="@drawable/carlo" />
+
+        <TextView
+            android:id="@+id/txtagency"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:gravity="left|fill_vertical"
+            android:padding="10dp"
+            android:text="dsd"
+            android:textStyle="bold"
+            android:textColor="#7e1f1f" />
+
+
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:gravity="left|fill_vertical"
+            android:padding="5dp"
+            android:text="What:"
+            android:textColor="#7e1f1f"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/what"
+            android:layout_width="match_parent"
+            android:gravity="left|fill_vertical"
+            android:padding="5dp"
+            android:text="dsd"
+            android:textColor="#7e1f1f" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:gravity="left|fill_vertical"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:text="When:"
+            android:textColor="#7e1f1f" />
+
+        <TextView
+            android:id="@+id/where"
+            android:layout_width="match_parent"
+            android:gravity="left|fill_vertical"
+            android:padding="5dp"
+            android:text="dsd"
+            android:textColor="#7e1f1f" />
+
+    </TableRow>
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:gravity="left|fill_vertical"
+            android:padding="5dp"
+            android:textStyle="bold"
+            android:text="Where:"
+            android:textColor="#7e1f1f" />
+
+        <TextView
+            android:id="@+id/when"
+            android:layout_width="match_parent"
+            android:gravity="left|fill_vertical"
+            android:padding="5dp"
+            android:text="dsd"
+            android:textColor="#7e1f1f" />
+
+    </TableRow>
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:gravity="left|fill_vertical"
+            android:padding="5dp"
+            android:text="Desc:"
+            android:textColor="#7e1f1f"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/desc"
+            android:layout_width="290dp"
+            android:layout_height="wrap_content"
+            android:gravity="left|fill_vertical"
+            android:padding="5dp"
+            android:text="Reports we're getting from Cebu say firemen have difficulty getting inside the building where there is zero visibility."
+            android:textColor="#7e1f1f" />
+
+    </TableRow>
+</TableLayout>

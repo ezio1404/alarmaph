@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:paddingBottom="0dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="20dp"
+        android:paddingTop="10dp">
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/citimg"
+            android:layout_width="54dp"
+            android:layout_height="51dp"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/carlo"
+            app:border_color="#7e1f1f"
+            app:border_width="2dp" />
+
+        <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="7dp"
+            android:layout_marginTop="7dp">
+
+
+            <TableRow
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/citname"
+                    android:layout_width="wrap_content"
+                    android:fontFamily="sans-serif"
+                    android:gravity="left|fill_vertical"
+                    android:padding="2dp"
+                    android:text="Carlo Saberon"
+                    android:textColor="#7e1f1f"
+                    android:textSize="12dp"
+                    android:textStyle="bold" />
+
+            </TableRow>
+
+            <TableRow
+                android:layout_width="match_parent"
+
+                android:layout_height="match_parent">
+
+                <TextView
+                    android:id="@+id/e"
+                    android:layout_width="match_parent"
+                    android:layout_span="2"
+                    android:gravity="fill_horizontal"
+                    android:padding="2dp"
+                    android:text="Alarma"
+                    android:textAllCaps="false"
+                    android:textColor="#222222"
+                    android:textSize="9dp"
+                    android:textStyle="italic" />
+
+            </TableRow>
+
+
+        </TableLayout>
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/qwet"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:orientation="horizontal"
+            android:padding="0dp">
+
+            <TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="7dp"
+                android:layout_marginTop="7dp">
+
+                <!--
+                        <TableRow
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent">
+
+                            <TextView
+                                android:layout_width="match_parent"
+                                android:gravity="left|fill_vertical"
+                                android:padding="5dp"
+                                android:text="Birthday:"
+                                android:textColor="#7e1f1f"
+                                android:textSize="12dp"
+                                android:textStyle="bold" />
+
+                            <TextView
+                                android:id="@+id/bday"
+                                android:layout_width="match_parent"
+                                android:gravity="left|fill_vertical"
+                                android:padding="5dp"
+                                android:text="January 11, 1997"
+                                android:textColor="#7e1f1f"
+                                android:textSize="12dp" />
+
+                            <TextView
+                                android:id="@+id/editbday"
+                                android:layout_width="wrap_content"
+                                android:layout_marginLeft="40dp"
+                                android:padding="5dp"
+                                android:text="Edit"
+                                android:textColor="#7e1f1f"
+                                android:textSize="12dp" />
+
+                        </TableRow> -->
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="15dp">
+
+                    <TextView
+                        android:id="@+id/citdesc"
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="45dp"
+                        android:gravity="left|fill_vertical"
+                        android:padding="5dp"
+                        android:text="Five among the seven arrested suspects are considered as street level drug pushers. They were identified as Charles Murillo, Jason James Gica, Junrie Sabas, Loreto Montalban Jr., and Ronquillo Banzon."
+                        android:textColor="#7e1f1f"
+                        android:textSize="12dp" />
+
+
+                </TableRow>
+
+                <TableRow
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingLeft="15dp">
+
+
+                    <ImageView
+                        android:id="@+id/imgpostcit"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:maxHeight="150dp"
+                        android:adjustViewBounds="true"
+
+                        app:srcCompat="@drawable/bfp" />
+                </TableRow>
+
+            </TableLayout>
+
+        </LinearLayout>
+    </LinearLayout>
+
+
+    <include
+        android:id="@+id/include"
+        layout="@layout/content_setting"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+
+</android.support.design.widget.CoordinatorLayout>

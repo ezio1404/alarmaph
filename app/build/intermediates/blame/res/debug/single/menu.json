@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\menu\\activity_homeactivity_drawer.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\menu\\activity_homeactivity_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\menu\\homeactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\menu\\homeactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_browseactivity.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\menu\\menu_browseactivity.xml"
+    }
+]

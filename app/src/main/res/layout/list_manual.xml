@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+    <TableRow>
+
+        <ImageView
+            android:id="@+id/manualimg"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:layout_marginLeft="15sp"
+
+            android:paddingLeft="20sp"
+            android:src="@drawable/manual" />
+
+        <TextView
+            android:id="@+id/manualtxt"
+            android:layout_width="150dp"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:text="Allergic Reacto"
+            android:textColor="#7e1f1f" />
+
+        <TextView
+            android:id="@+id/manualtxt1"
+            android:layout_width="110dp"
+            android:layout_height="70dp"
+            android:gravity="center"
+            android:paddingLeft="20dp"
+            android:text="Australian Red Cross"
+            android:textColor="#7e1f1f"
+            android:textSize="10dp"
+            android:textStyle="bold" />
+
+
+
+
+    </TableRow>
+</TableLayout>

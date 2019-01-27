@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:padding="20dp"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:weightSum="1">
+    <!--android:background="@drawable/customborder"-->
+
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:id="@+id/a_image"
+        android:layout_width="21dp"
+        android:layout_height="24dp"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:src="@drawable/ic_call_black_48dp" />
+
+
+    <TableLayout
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="6dp"
+        android:layout_marginTop="0dp">
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/a_agency"
+                android:layout_width="match_parent"
+                android:gravity="left|fill_vertical"
+                android:padding="5dp"
+                android:text="Carlo Saberon"
+                android:textSize="10dp" />
+
+
+        </TableRow>
+
+        <!-- <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:gravity="left|fill_vertical"
+                android:padding="2dp"
+                android:text="Number:"
+                android:textColor="#7e1f1f"
+                android:textSize="10dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/a_number"
+                android:layout_width="match_parent"
+                android:gravity="left|fill_vertical"
+                android:padding="2dp"
+                android:text="20"
+                android:textColor="#7e1f1f"
+                android:textSize="10dp" />
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="wrap_content"
+
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:gravity="left|fill_vertical"
+                android:padding="2dp"
+                android:text="Location:"
+                android:textColor="#7e1f1f"
+                android:textSize="10dp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/a_location"
+                android:layout_width="150dp"
+                android:ellipsize="end"
+                android:gravity="left|fill_vertical"
+                android:maxLines="2"
+                android:padding="2dp"
+                android:text="Brgy. Duljo Fatima"
+                android:textColor="#7e1f1f"
+                android:textSize="10dp" />
+
+        </TableRow>-->
+
+
+    </TableLayout>
+
+
+    <TextView
+        android:id="@+id/m_call"
+        android:layout_width="wrap_content"
+        android:layout_height="29dp"
+        android:layout_marginTop="-3dp"
+
+        android:layout_weight="0.48"
+        android:gravity="center"
+        android:text="CALL"
+        android:textSize="10sp" />
+
+</LinearLayout>
+
+
