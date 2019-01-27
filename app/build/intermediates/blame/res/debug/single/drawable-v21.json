@@ -4,6 +4,10 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\drawable-v21\\avd_show_password.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
@@ -16,16 +20,44 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",

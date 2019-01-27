@@ -4,16 +4,36 @@
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\carlo.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_red_48dp.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_call_red_48dp.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_panorama_fish_eye_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_panorama_fish_eye_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings_24dp.xml",
@@ -24,20 +44,24 @@
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\loc_user.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\draginfo.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\draginfo.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info6.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\info6.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info2.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info2.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\draginfo.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\draginfo.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarma.png",
@@ -52,64 +76,64 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info3.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info3.png"
-    },
-    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liked.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\liked.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arjea.jpg",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\arjea.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarma.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\alarma.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\image.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emergency_icon.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\emergency_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\like.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\like.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bfp.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\bfp.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bfp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\bfp.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slogo1.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\slogo1.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info4.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\info4.png"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bottom_line.xml",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\edittext_bottom_line.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info5.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info5.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blank_info.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\blank_info.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bottom_line.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\edittext_bottom_line.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cebu.jpg",
@@ -120,10 +144,6 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ratingbar_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
@@ -132,44 +152,48 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\notification_tile_bg.xml"
-    },
-    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_forever_black_48dp.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_delete_forever_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guardian.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\guardian.png"
-    },
-    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_red.xml",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\bottom_red.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\liked.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\liked.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\help.png"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\weather.png"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\drawable\\navigation_empty_icon.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eruf.png",
@@ -180,44 +204,428 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_icon_disabled.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\weather.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\weather.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\info1.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ic_search_api_material.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manual.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\manual.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bret.jpg",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\bret.jpg"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\carlo.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\carlo.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mode_edit_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_mode_edit_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\draginfo.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\draginfo.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manual.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\manual.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info6.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info6.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_grade_black_24dp.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_grade_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joshua.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\joshua.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_delete_forever_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_delete_forever_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emergency.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\emergency.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\help.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\help.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mode_edit_black_48dp.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_mode_edit_black_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arjea.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\arjea.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blank_info.jpg",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\blank_info.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info2.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\info2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\fb.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info1.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info1.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_red_48dp.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_call_red_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linepar.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\linepar.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bret.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\bret.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info3.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info3.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_slideshow.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cebu.jpg",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\cebu.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\eruf.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\eruf.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\arjea.jpg",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\arjea.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bfp.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\bfp.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_bottom_line.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\edittext_bottom_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info5.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info5.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info3.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\info3.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guardian.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\guardian.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\guardian.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\guardian.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting_user.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\setting_user.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\like.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\like.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pnp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\pnp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\image.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\image.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emergency.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\emergency.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_normal.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\c00d286e0913ec5527af573c453d7561d4387f95\\output\\res\\drawable\\common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\manual.png",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\manual.png"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ic_clear_material.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_manage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_image.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\default_image.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_disabled.xml",
@@ -228,32 +636,24 @@
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_call_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
-    },
-    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info6.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info6.png"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_grade_black_24dp.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_grade_black_24dp.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loc_user.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\loc_user.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_camera.xml",
@@ -268,80 +668,72 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\notification_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_normal.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_dark_normal.xml"
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_black_48dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_call_black_48dp.png"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_panorama_fish_eye_black_48dp.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_panorama_fish_eye_black_48dp.png"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bottom_red.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\bottom_red.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\call.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\call.png"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\notification_icon_background.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\joshua.jpg",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\joshua.jpg"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\default_image.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\default_image.png"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\emergency.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\emergency.png"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_disabled.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_vector_test.xml"
-    },
-    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_dialog_material_background.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_mode_edit_black_48dp.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_mode_edit_black_48dp.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
@@ -356,24 +748,40 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\8634701881b7e15ba7205c361d711c567272afc0\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\blank_info.jpg",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\blank_info.jpg"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_settings_24dp.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_settings_24dp.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_grade_black_24dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_grade_black_24dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_call_red_48dp.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_call_red_48dp.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info5.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\info5.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fb.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\fb.png"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slogo1.png",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\slogo1.png"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border.xml",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_send.xml",
+        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_send.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pnp.png",
@@ -382,6 +790,10 @@
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
@@ -400,20 +812,28 @@
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\customborder.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\customborder.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\customborder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info4.png",
         "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info4.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_share.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_share.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\info1.png",
-        "source": "C:\\Users\\Carlo\\Alarmaph\\app\\src\\main\\res\\drawable\\info1.png"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_gallery.xml",
+        "source": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\src\\main\\res\\drawable\\ic_menu_gallery.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\linepar.png",

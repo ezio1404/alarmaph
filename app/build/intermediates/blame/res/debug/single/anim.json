@@ -1,5 +1,65 @@
 [
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
@@ -12,47 +72,43 @@
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\a6565b581bab547e1942c40ed7dbc76ef36f4320\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\3db9e5ee97d637e06040a040b53e31b9af5ef2c8\\output\\res\\anim\\design_fab_in.xml"
     },
     {
         "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Carlo\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Carlo\\.android\\build-cache\\faef5f2aa5b6ed97f41f0e0c9540f6f2e9e93f53\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Users\\Administrator\\Desktop\\Alarmaph\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\99049f1a36622799fdcc8b9a97cb7a7e4d16aa6c\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     }
 ]
